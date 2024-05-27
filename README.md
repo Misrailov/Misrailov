@@ -53,15 +53,15 @@
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
+    ![AzureDev](https://img.shields.io/badge/azure_devops-lavender.svg?style=for-the-badge&logo=azuredevops&logoColor=grey)
+
 <br>
 
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![AzureDev](https://img.shields.io/badge/azure_devops-lavender.svg?style=for-the-badge&logo=azuredevops&logoColor=grey)
-
+    
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![MacOS](https://img.shields.io/badge/Mac_OS-grey?style=for-the-badge&logo=apple&logoColor=white)
