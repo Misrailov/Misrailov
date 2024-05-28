@@ -31,6 +31,7 @@
 <br>   
 
 - **Languages & Frameworks**:
+  
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![DOTENV](https://img.shields.io/badge/CSHARP-blue.svg?style=for-the-badge&logo=Csharp&logoColor=white)
     ![Csharp](https://img.shields.io/badge/D365_X++-purple?style=for-the-badge&logo=dynamics365&logoColor=white)
