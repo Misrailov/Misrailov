@@ -28,7 +28,6 @@
 <br>
 
 <p align="center">
-<br>   
 
 - **Languages & Frameworks**:
   
