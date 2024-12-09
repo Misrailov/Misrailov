@@ -16,7 +16,6 @@
 - A passionate Software Developer
 - Working on a discord bot
 - Dynamics 365 Developer
-- Currently looking for a summer job
 
 
 
