@@ -14,7 +14,7 @@
 
 
 - A passionate Software Developer
-- Working on a discord bot
+- Working on an ecommerce platform
 - Dynamics 365 Developer
 
 
